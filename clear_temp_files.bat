@@ -15,5 +15,10 @@ echo Clearing temporary files from the current user's profile...
 ICACLS "%TEMP%" /grant administrators:F /t
 rd /s /q "%TEMP%"
 
+:: Clear temporary files from the Windows Temp folder
+echo Clearing temporary files from the Windows Temp folder...
+ICACLS "%SystemRoot%\Temp" /grant administrators:F /t
+rd /s /q "%SystemRoot%\Temp"
+
 echo Temporary files have been cleared.
 pause
