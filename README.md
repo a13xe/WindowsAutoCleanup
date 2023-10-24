@@ -3,8 +3,8 @@
 <img src="https://img.shields.io/github/last-commit/a13xe/WindowsAutoCleanup"/>
 <img src="https://img.shields.io/github/downloads/a13xe/WindowsAutoCleanup/total"/>
 </div><div align="left">
-<img src="https://tokei.rs/b1/github/a13xe/WindowsAutoCleanup?category=files"/>
-<img src="https://tokei.rs/b1/github/a13xe/WindowsAutoCleanup?category=lines"/> 
+<img src="https://tokei.rs/b1/github/a13xe/WindowsAutoCleanup?category=files" alt=""/>
+<img src="https://tokei.rs/b1/github/a13xe/WindowsAutoCleanup?category=lines" alt=""/> 
 </div>
 
 :broom: Windows Auto Cleanup
